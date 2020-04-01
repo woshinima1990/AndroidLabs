@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android labs</string>
+    <string name="emailAddressText">Enter your email address:</string>
+    <string name="emailAddress">Type email here</string>
+    <string name="passwordText">Type your password: </string>
+    <string name="passwordInput">textPassword</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="chatButton">Go to chat</string>
+    <string name="sendButton">SEND</string>
+    <string name="receiveButton">RECEIVE</string>
+
+
+</resources>
